@@ -1,0 +1,17 @@
+{
+  "name": "ttsq-remote-agent",
+  "version": "1.0.0",
+  "description": "TTSQ 远程控制 - 被控端 Agent（开源）",
+  "main": "agent.js",
+  "scripts": {
+    "start": "node agent.js",
+    "register": "node agent.js"
+  },
+  "keywords": ["ttsq", "remote", "vnc", "remote-control"],
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {},
+  "author": "TTSQ Community"
+}
