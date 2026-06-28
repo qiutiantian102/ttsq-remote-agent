@@ -1,0 +1,6 @@
+{
+  "code": "ABC123",
+  "server": "https://ttsq-api.qiutiantian102.workers.dev",
+  "tunnelUrl": "wss://xxx.trycloudflare.com",
+  "passwordHint": "VNC 密码（仅提示，不要填真实密码）"
+}
